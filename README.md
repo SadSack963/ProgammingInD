@@ -5,7 +5,7 @@ This repository contains my exercises from
 http://ddili.org/ders/d.en/index.html
 
 Exercise     State
-=======================
-Arrays 3     completed
-Slices       completed
+-----------------------
+Arrays 3     completed<br>
+Slices       completed<br>
 
