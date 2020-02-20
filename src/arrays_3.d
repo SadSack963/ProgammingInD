@@ -32,7 +32,7 @@ void main() {
 // One array for squares
 import std.stdio;
 
-void Ex3() {
+void Arrays_3() {
 	int[5] squares;
 	
 	writeln("Please enter 5 numbers");
@@ -59,7 +59,7 @@ void Ex3() {
 }
 
 // Alternative version with two arrays for both numbers and squares
-void Ex3_alt() {
+void Arrays_3_alt() {
 	int[5] array_number;
 	int[5] array_squares;
 	
