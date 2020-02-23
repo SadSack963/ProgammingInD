@@ -43,7 +43,7 @@ void Slices_2(){
 		
 		// Shorten the slice by removing the first element
 		slice = slice[1..$];
-	};
+	}
 
 	writeln(array[], " - Modified Array");
 	
