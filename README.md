@@ -9,4 +9,6 @@ Exercise     State
 Arrays       completed<br>
 Slices       completed<br>
 Strings      completed<br>
+Strings      completed<br>
+Files        completed<br>
 

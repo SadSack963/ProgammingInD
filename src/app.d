@@ -18,10 +18,17 @@ import Ex_slices;
 	Slices_2;
 */
 
+/*
 // Strings Exercises
 import Ex_strings;
-//	Strings_2;
+	Strings_2;
 	Strings_3;
+*/
+
+
+// Files Exercises
+import Ex_files;
+	Files_1;	
 	
 	
 }
