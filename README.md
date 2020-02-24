@@ -11,4 +11,6 @@ Slices       completed<br>
 Strings      completed<br>
 Strings      completed<br>
 Files        completed<br>
+Typeof       completed<br>
+For Loops    completed<br>
 

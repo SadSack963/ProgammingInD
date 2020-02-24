@@ -1,4 +1,4 @@
-import std.stdio;
+// No libraries are loaded here... libraries are imported in the called scripts
 
 void main() {
 
@@ -25,10 +25,23 @@ import Ex_strings;
 	Strings_3;
 */
 
-
+/*
 // Files Exercises
 import Ex_files;
 	Files_1;	
+*/
 	
+/*
+// Auto and Typeof Exercises
+import Ex_typeof;
+	Typeof_1;
+*/
 	
+
+// For Loop Exercises	
+import Ex_for_loops;	
+	For_Loop_1;
+	For_Loop_2;
+	
+			
 }
