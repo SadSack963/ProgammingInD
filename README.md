@@ -2,15 +2,16 @@ This repository contains my exercises from
 # Progamming In D
  by Ali Çehreli
 
-http://ddili.org/ders/d.en/index.html
+<a>http://ddili.org/ders/d.en/index.html</a>
 
-Exercise     State
------------------------
-Arrays       completed<br>
-Slices       completed<br>
-Strings      completed<br>
-Strings      completed<br>
-Files        completed<br>
-Typeof       completed<br>
-For Loops    completed<br>
+<pre>
+Exercise                 State<br>
+----------------------------------<br>
+Ex_001_Arrays           completed<br>
+Ex_002_Slices           completed<br>
+Ex_003_Strings          completed<br>
+Ex_004_Files            completed<br>
+Ex_005_Typeof           completed<br>
+Ex_006_For Loops        completed<br>
 
+</pre>
