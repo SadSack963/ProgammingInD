@@ -13,5 +13,6 @@ Ex_003_Strings          completed
 Ex_004_Files            completed
 Ex_005_Typeof           completed
 Ex_006_For_Loops        completed
+Ex_007_ternary			completed
 
 </pre>

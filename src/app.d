@@ -37,19 +37,25 @@ import Ex_005_typeof;
 	Typeof_1;
 */
 	
-
+/*
 // For Loop Exercises	
 import Ex_006_for_loops;	
-//	For_Loop_1;
-//	For_Loop_2;
-//	For_Loop_3;
-//	For_Loop_3a;
+	For_Loop_1;
+	For_Loop_2;
+	For_Loop_3;
+	For_Loop_3a;
 	For_Loop_3b;
+*/
+	
+	
+// The Ternary Operator (?) 	
+import Ex_007_ternary;
+	Ternary_1;
 
-	
-	
-// 	
-	
+
+
+
+
 	
 			
 }
